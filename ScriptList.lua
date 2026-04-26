@@ -1,5 +1,5 @@
 return {
-    [14067600077] = {
+    [4871329703] = {
         Name    = "Type Soul",
         PaidUrl = "https://api.luarmor.net/files/v4/loaders/a901547774f7e8197933c5a0e55ebe80.lua",
         FreeUrl = nil,
